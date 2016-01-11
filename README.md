@@ -4,3 +4,5 @@ This is the raytracer I've made in my second year of International Game Architec
 This does not include the assets or external libraries that it requires to compile and run due to licensing.
 
 This project is dated January 2014.
+
+http://michielkurstjens.nl/view/Raytracer
